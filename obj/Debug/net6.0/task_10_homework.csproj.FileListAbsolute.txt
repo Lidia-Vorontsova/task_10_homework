@@ -1,0 +1,15 @@
+C:\Users\Lidiya\Desktop\Seminar_2\task_10_homework\bin\Debug\net6.0\task_10_homework.exe
+C:\Users\Lidiya\Desktop\Seminar_2\task_10_homework\bin\Debug\net6.0\task_10_homework.deps.json
+C:\Users\Lidiya\Desktop\Seminar_2\task_10_homework\bin\Debug\net6.0\task_10_homework.runtimeconfig.json
+C:\Users\Lidiya\Desktop\Seminar_2\task_10_homework\bin\Debug\net6.0\task_10_homework.dll
+C:\Users\Lidiya\Desktop\Seminar_2\task_10_homework\bin\Debug\net6.0\task_10_homework.pdb
+C:\Users\Lidiya\Desktop\Seminar_2\task_10_homework\obj\Debug\net6.0\task_10_homework.csproj.AssemblyReference.cache
+C:\Users\Lidiya\Desktop\Seminar_2\task_10_homework\obj\Debug\net6.0\task_10_homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lidiya\Desktop\Seminar_2\task_10_homework\obj\Debug\net6.0\task_10_homework.AssemblyInfoInputs.cache
+C:\Users\Lidiya\Desktop\Seminar_2\task_10_homework\obj\Debug\net6.0\task_10_homework.AssemblyInfo.cs
+C:\Users\Lidiya\Desktop\Seminar_2\task_10_homework\obj\Debug\net6.0\task_10_homework.csproj.CoreCompileInputs.cache
+C:\Users\Lidiya\Desktop\Seminar_2\task_10_homework\obj\Debug\net6.0\task_10_homework.dll
+C:\Users\Lidiya\Desktop\Seminar_2\task_10_homework\obj\Debug\net6.0\refint\task_10_homework.dll
+C:\Users\Lidiya\Desktop\Seminar_2\task_10_homework\obj\Debug\net6.0\task_10_homework.pdb
+C:\Users\Lidiya\Desktop\Seminar_2\task_10_homework\obj\Debug\net6.0\task_10_homework.genruntimeconfig.cache
+C:\Users\Lidiya\Desktop\Seminar_2\task_10_homework\obj\Debug\net6.0\ref\task_10_homework.dll
